@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1546279857 source:e:\mega\pp\proiect\template matching\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
